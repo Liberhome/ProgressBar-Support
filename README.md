@@ -8,8 +8,7 @@ Private development continues at the developer’s main repository.
 ## Support
 
 - **App Store**: Open the app’s page on the App Store → use **Ratings & Reviews** or **App Support** options provided by Apple.  
-- **Updates & notices**: Shown on the App Store product page when available.  
-- This page does **not** collect messages; there is no guarantee of same-day replies to unsolicited contact.
+- **Updates & notices**: Shown on the App Store product page when available.
 
 For privacy-related information, see the **Privacy Policy** inside the app (**Settings**).
 
@@ -31,8 +30,7 @@ Features include in-app language selection, optional Sign in with Apple, optiona
 ## 支持与反馈
 
 - **App Store**：在 App Store 中打开本 App 页面，通过 **评分与评论** 或 Apple 提供的 **App 支持** 等入口反馈问题。  
-- **版本说明**：以 App Store 产品页展示为准。  
-- 本页面**不设留言表单**；**不保证**对非 App Store 渠道的即时回复。
+- **版本说明**：以 App Store 产品页展示为准。
 
 应用内 **设置** 中可查看 **隐私政策**。
 
