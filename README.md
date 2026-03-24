@@ -12,6 +12,9 @@ Private development continues at the developer’s main repository.
 
 For privacy-related information, see the **Privacy Policy** inside the app (**Settings**).
 
+- **Privacy Policy (web, for App Store)**: `https://liberhome.github.io/ProgressBar-Support/privacy-policy.html`  
+  (Enable **GitHub Pages** on this repo: **Settings → Pages**, source **main** / **/docs**.)
+
 ---
 
 ## About ProgressBar
@@ -33,6 +36,9 @@ Features include in-app language selection, optional Sign in with Apple, optiona
 - **版本说明**：以 App Store 产品页展示为准。
 
 应用内 **设置** 中可查看 **隐私政策**。
+
+- **隐私政策（网页，供 App Store 填写 URL）**：`https://liberhome.github.io/ProgressBar-Support/privacy-policy.html`  
+  （需在本仓库 **Settings → Pages** 开启 **GitHub Pages**，源选 **main** 与 **/docs**。）
 
 ---
 
